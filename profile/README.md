@@ -14,6 +14,7 @@ The tools share three principles:
 
 | Tool | What it checks |
 |---|---|
+| [specular](https://github.com/agent-quality-controls/specular) | Spec-driven development CLI for checking code against JSON specs |
 | [guardrail3](https://github.com/agent-quality-controls/guardrail3) | Code guardrails for Rust and TypeScript: banned APIs, architectural topology, input validation, centralized I/O, total lint-suppression visibility |
 | [fixture3](https://github.com/agent-quality-controls/fixture3) | Fixture-based approval testing CLI for agent-managed codebases |
 | [slopless](https://github.com/agent-quality-controls/slopless) | Deterministic Markdown linter for AI and human prose slop - 50+ rules across metrics, orthography, phrases, syntactic patterns, and semantic thinness |
